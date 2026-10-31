@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora BCV Venezuela - Dólar y Euro en Tiempo Real",
+  "description": "Calculadora y conversor de divisas con tasas oficiales del BCV (Dólar y Euro) actualizadas en tiempo real. Incluye desglose de IVA, IGTF y calculadora integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
